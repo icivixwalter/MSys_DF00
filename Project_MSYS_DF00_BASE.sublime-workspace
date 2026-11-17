@@ -124,6 +124,7 @@
 	],
 	"file_history":
 	[
+		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/git_CANCELLA_TUTTI_I_DATI_IN_GITHUB.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/git_PULL.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/ZIP_7ZIP_INCREMENTALE_FILE_LOG.TXT",
@@ -134,7 +135,6 @@
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/Zip_N70_ElencoFile.txt",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/git_OpenGitHub.bat",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/git_CREATE_GITHUB.BAT",
-		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF00/git_CANCELLA_TUTTI_I_DATI_IN_GITHUB.BAT",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS_OGGETTI/MSYS/MDB/MSYS_BASE/README_MSYS_BASE.md",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF02/Zip_N70_ElencoFile.txt",
 		"/C/CASA/LINGUAGGI/ACCESS/PROGETTI_MDB/MSYS/MSys_DF02/ZIP_7ZIP_INCREMENTALE_{CRIPTA+DECODIFICA_INTERNO}.BAT",
@@ -273,6 +273,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Msys_DF00",
 			"DF04",
 			"$Project",
 			"Project",
@@ -304,8 +305,8 @@
 		],
 		"reverse": false,
 		"scrollbar_highlights": true,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": false
@@ -351,7 +352,7 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
-		"height": 0.0,
+		"height": 160.800003052,
 		"history":
 		[
 		]

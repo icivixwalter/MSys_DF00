@@ -1,3 +1,10 @@
+@REM  cambia questo parametro ---------:    c:\CASA\LINGUAGGI\ACCESS\PROGETTI_MDB\MSYS\MSys_DF00\
+@REM
+@REM  cambia questo parametro ---------:    _Msys_DF00
+
+
+
+
 @echo off
 REM ============================================================
 REM  SVUOTA SU GITHUB IL BRANCH PRINCIPALE main  (OPERAZIONE PERICOLOSA)
